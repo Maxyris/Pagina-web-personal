@@ -4,16 +4,20 @@ h1{
 }
 .azul{
     background-color: #3f6ddd;
-    height: 700px;
+    height: 450px;
+    margin-top: 250px;
 }
 section p{
     text-align: center;
     font-size: 30px;
     color: white;
 }
+
 .yo{
     height: 300px;
     width: 300px;
+    position: absolute;
+    top: 200px;
 }
 img{
     border-radius: 100%;
