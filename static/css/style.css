@@ -9,4 +9,16 @@ h1{
 section p{
     text-align: center;
     font-size: 30px;
+    color: white;
+}
+.yo{
+    height: 300px;
+    width: 300px;
+}
+img{
+    border-radius: 100%;
+    margin-left: 42%;
+}
+img:hover{
+    background-color: purple;
 }
